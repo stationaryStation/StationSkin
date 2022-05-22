@@ -1,1 +1,1 @@
-# StationSkin
+# StationSkin (Catppuccin Colorscheme)
